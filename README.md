@@ -15,12 +15,12 @@ Frontend: HTML, CSS, JavaScript (or any frontend framework/library like React, A
 Deployment: Hosted on platforms like VSCode
 
 # Usage
-Login: Use your credentials to log in to the system.
+Login: Use your credentials to log in to the system.<br>
 Add a Contact: Click on the "Add Contact" button and fill in the required details.
 View Contacts: All your contacts will be displayed on the main page.
 Delete a Contact: Click the delete button next to the contact you want to remove.
 
 # Screenshots
-![Screenshot of a Login Page](https://myoctocat.com/assets/images/base-octocat.svg)Login Page
+![Screenshot of a Login Page](https://github.com/Swetha-coder-ai/Contact-management-system-/blob/main/CMDPIC1.jfif)
 Contact List
 Add Contact
